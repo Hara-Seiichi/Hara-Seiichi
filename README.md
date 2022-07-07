@@ -4,7 +4,7 @@
  - Python
  - PHP
  - ruby
- - pearl
+ - perl
  - Jsバックエンド(未選定）
 
 <!---
